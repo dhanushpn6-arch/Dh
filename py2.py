@@ -1,6 +1,8 @@
 a=("welcome")
 b=("jss")
 c=("welcome home")
+d=("dh")
 print(a)
 print(b)
 print(c)
+print(d)
